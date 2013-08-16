@@ -19,7 +19,7 @@ After using the plugin, the user will have
 ## UI Storyboard ##
 
 The following diagrams describe the UI process flow, and a possible UI design (implemented in the prototype version of the plugin)
-![](https://github.com/mapaction/RAMP-QGIS/blob/master/file_naming_flow.png)
+![file naming flow](https://github.com/mapaction/RAMP-QGIS/blob/master/file_naming_flow.png)
 
 ## Configuration ##
 
