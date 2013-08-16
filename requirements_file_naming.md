@@ -20,6 +20,7 @@ After using the plugin, the user will have
 
 The following diagrams describe the UI process flow, and a possible UI design (implemented in the prototype version of the plugin)
 ![File naming: process flow](https://github.com/mapaction/RAMP-QGIS/blob/master/file_naming_flow.png)
+![File naming: UI design](https://github.com/mapaction/RAMP-QGIS/blob/master/file_naming_ui.png)
 
 ## Configuration ##
 
