@@ -31,5 +31,5 @@ Although these requirements arise from the emergency mapping domain, they could 
 There are already some resources, developed by MapAction and others, which contribute to this vision - these are referenced below. Requirements documentation for individual plugins is contained elsewhere in this repository.
 
 - spatialguru's [Network Mapping Engine (NME)](https://github.com/spatialguru/NME)
-- MapAction's prototype QGIS plugins [link to be added]
+- MapAction's prototype [QGIS plugins](https://github.com/mapaction/RAMP-QGIS/tree/master/MapActionTools)
 - The [metatools](https://github.com/nextgis/metatools) metadata browser/editor for QGIS
