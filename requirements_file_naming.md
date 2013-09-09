@@ -1,14 +1,14 @@
 # QGIS Plugin Requirements: File Naming #
 ## Purpose ##
-Where vector and raster files are stored in a pre-determined folder hierarchy, and filenames are structured, this plugin supports users in saving data to the correct folder with the correct filename. This supports effective data management and selection of appropriate data for use in mapping products, particularly where data structures are shared.
+Where vector and raster files are to be stored in a pre-determined folder hierarchy, and to have filenames that are structured according to a pre-determined naming convention, this plugin supports users in saving data to the correct folder with the correct filename. This supports effective data management and selection of appropriate data for use in mapping products, particularly where data structures are shared.
 
 ## Use Case ##
 **Pre- and post-conditions**
 
-It is assume that before using the plugin, the user will have
+It is assumed that before using the plugin, the user will have
 
-- A structured folder structure, no more than three layers deep, which corresponds to a data classification schema
-- A file naming schema containing up to five atomic components, corresponding to the data classification schema
+- A structured folder structure, no more than three layers deep, which corresponds to a pre-defined data classification schema
+- A file naming schema containing up to five atomic components, corresponding to the pre-defined data classification schema
 - One or more vector or raster files which are capable of being classified in the schema
 - Configuration files which define the instance of the structure
 
